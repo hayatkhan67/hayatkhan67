@@ -19,7 +19,7 @@
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/hayat-khan-263217281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"/>
   </a>
   <a href="https://www.fiverr.com/johnmicheal100" target="blank">
     <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiverr" height="30" width="30"/>
