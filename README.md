@@ -8,7 +8,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 <a href="https://www.fiverr.com/johnmicheal100" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/fiverr.svg" alt="Fiverr" height="30" width="40" />
+<img align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiverr" height="30" width="40" />
 </a>
 <a href="https://www.youtube.com/@HKNPlayz" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
